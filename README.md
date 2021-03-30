@@ -1,5 +1,6 @@
 # JreV
 
+<br>Jrev Is A tool For Reverse IP<br>
 Priview
 <br>
 <img src="/image/gambar1.png">
@@ -10,3 +11,5 @@ Priview
 <br>$cd JreV
 <br>$python -m pip install -r requirements.txt
 <br>$python JreV.py
+
+<br><br> Special Thanks To : Dx Team and Jamet1337
