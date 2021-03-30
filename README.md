@@ -1,4 +1,5 @@
 # JreV
 
 Priview
-<img src="../image/gambar1.png">
+<br>
+<img src="/image/gambar1.png">
