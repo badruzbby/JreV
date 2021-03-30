@@ -1,3 +1,6 @@
+#coded by B4bbyGhost_
+#Thanks to Jamet1337 for API
+#Recode Not Make You pro :)
 import requests
 import os
 from colorama import init
