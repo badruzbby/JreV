@@ -8,6 +8,7 @@ Priview
 <br>Commands
 <br>$apt-get install python
 <br>$apt-get install git
+<br>$git clone https://github.com/badruzbby/JreV.git
 <br>$cd JreV
 <br>$python -m pip install -r requirements.txt
 <br>$python JreV.py
