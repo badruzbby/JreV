@@ -2,6 +2,7 @@
 
 <br>Jrev Is A tool For Reverse IP<br>
 Priview
+<br><b>UPDATE !!!</b>
 <br>
 <img src="/image/gambar1.png">
 <br><b>How To install?</b>
@@ -12,5 +13,4 @@ Priview
 <br>$cd JreV
 <br>$python -m pip install -r requirements.txt
 <br>$python JreV.py
-
 <br><br> Special Thanks To : Dx Team and Jamet1337
