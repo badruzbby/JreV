@@ -2,7 +2,7 @@
 
 <br>Jrev Is A tool For Reverse IP<br>
 Priview
-<br><b>UPDATE !!!</b>
+<br><b>UPDATE Mass Revip from List !!</b>
 <br>
 <img src="/image/gambar1.png">
 <br><b>How To install?</b>
